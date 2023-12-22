@@ -1,0 +1,1 @@
+Para utilizar o projeto, clone o repositorio com 'git clone', após clonar, entre na pasta do projeto com 'cd blog-test', baixe as dependências com 'npm install', para rodar o projeto inicie com 'npm run dev'.
